@@ -8,7 +8,7 @@ function Home() {
             <div className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
-                    My name is David Phelps. <br />I enjoy using my creativity to build sustainable software solutions for businesses.
+                    My name is David Phelps. <br />I enjoy using my creativity to build easy-to-use software solutions for businesses.
                 </p>
                 <a
                     className="App-link"
